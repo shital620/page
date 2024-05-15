@@ -13,7 +13,7 @@
   background-size: cover;
   overflow: hidden;
   position: relative;
-  background-image: url("./media/b.jpg");
+  background-image: url("b.jpg");
 }
 .logo {
   width: 50px;
